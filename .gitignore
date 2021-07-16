@@ -1,0 +1,8 @@
+.DS_Store
+*.env
+
+backend/node_modules/
+backend/public/img/picts/original/*
+backend/public/img/picts/thumb/*
+backend/.env
+backend/coverage/
